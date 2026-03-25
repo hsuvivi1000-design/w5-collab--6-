@@ -93,7 +93,15 @@ header .subtitle {
   border-color: #4f8ef7;
 }
 
-/* ── 組員 B 任務：在這裡加清除按鈕樣式 ── */
+/* ── 清除按鈕樣式 ── */
+.input-area button.clear-btn {
+  background: #e74c3c;
+  color: white;
+}
+
+.input-area button.clear-btn:hover {
+  opacity: 0.85;
+}
 .input-area button {
   background: #4f8ef7;
   color: white;
