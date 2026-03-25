@@ -11,7 +11,7 @@
 |------|------|---------|------|------|
 | 組長 | （填名字）| `main` | 修改標題 & header 顏色、review 所有 PR | ⬜ |
 | 組員 A | （填名字）| `feature/member-a` | 新增訊息時間戳 | ⬜ |
-| 組員 B | （填名字）| `feature/member-b` | 新增清除對話按鈕 | ⬜ |
+| 組員 B | 林伽紜 | `feature/member-b` | 新增清除對話按鈕 | 🔀 PR 已開 |
 | 組員 C | （填名字）| `feature/member-c` | 新增字數統計 | ⬜ |
 | 組員 D | （填名字）| `feature/member-d` | 新增深色模式 | ⬜ |
 | 組員 E | （填名字）| `feature/member-e` | 新增鍵盤快捷鍵說明 | ⬜ |
