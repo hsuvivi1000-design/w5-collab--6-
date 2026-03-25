@@ -165,7 +165,11 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 | 組員姓名 | 負責分支 | 主要修改內容 | PR 連結 | 是否完成 |
 | -------- | -------- | ------------ | ------- | -------- |
 |          |          |              |         | ✅ / ❌  |
+<<<<<<< HEAD
 | 朱覺祥 |    feature/member-a      |   sendMessage() 裡，每則訊息加上時間戳和style.css 加上 .timestamp 樣式           |         | ✅   |
+=======
+| 林伽紜    | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 https://github.com/hsuvivi1000-design/w5-collab--6-/pull/5 | ✅  |
+>>>>>>> origin/pluscloudlin-patch-1
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
@@ -232,9 +236,15 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 每位組員各寫 2–3 句，說明這週對 PR / Code Review 的理解或感想
 
+<<<<<<< HEAD
 **（朱覺祥）：**
 有種在紹交媒體互動的感覺，像是在回覆留言
 **（組員姓名）：**
+=======
+**（組員姓名）：**
+
+**林伽紜：** 今天的操作練習PR與Code Review的應用，讓我完整的瞭解了如何在大專案中使用這項功能，讓程式碼整潔乾淨，不會亂成一團。
+>>>>>>> origin/pluscloudlin-patch-1
 
 **（組員姓名）：**
 
@@ -244,14 +254,21 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 | 評分項目            | 分數（1–5） | 說明 |
 | ------------------- | ------------ | ---- |
+<<<<<<< HEAD
 | PR 描述完整度       |      5        |  AI寫的能不完整嗎    |
 | Review comment 品質 |     4         |  感覺還行    |
 | 回應 review 的態度  |     2         |  我感覺我好像過於隨意    |
 | 最終成果完整度      |     4         |  應該都有完成吧，應該吧    |
+=======
+| PR 描述完整度       |       5       |   還不錯   |
+| Review comment 品質 |      5        |   很棒   |
+| 回應 review 的態度  |       5       |   很好   |
+| 最終成果完整度      |      5        |   完美   |
+>>>>>>> origin/pluscloudlin-patch-1
 
 這週覺得最有挑戰的是？
 
-- [ ] 寫 PR 描述
+- [x] 寫 PR 描述
 - [ ] 給 Code Review
 - [x] 回應 review 並修改
 - [ ] 解決 Merge Conflict
