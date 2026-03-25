@@ -27,6 +27,7 @@ header {
   background: #4f8ef7;
   color: white;
   padding: 20px 24px;
+  position: relative;
 }
 header h1 { font-size: 20px; }
 header .subtitle { font-size: 13px; opacity: 0.85; margin-top: 4px; }
@@ -93,6 +94,47 @@ header .subtitle { font-size: 13px; opacity: 0.85; margin-top: 4px; }
 .input-area button:hover { opacity: 0.85; }
 
 /* ── 組員 D 任務：在這裡加 body.dark 深色模式樣式 ── */
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark .container {
+  background: #1e1e1e;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+body.dark header {
+  background: #1a1a1a;
+  color: #e0e0e0;
+}
+body.dark .message.bot {
+  background: #333;
+  color: #e0e0e0;
+}
+body.dark .input-area {
+  border-top: 1px solid #333;
+}
+body.dark .input-area input {
+  background: #333;
+  color: #e0e0e0;
+  border-color: #444;
+}
+body.dark .input-area input:focus {
+  border-color: #4f8ef7;
+}
+
+.dark-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.dark-toggle:hover {
+  transform: scale(1.1);
+}
 
 /* ── 組員 E 任務：在這裡加 footer 樣式 ── */
 footer {
