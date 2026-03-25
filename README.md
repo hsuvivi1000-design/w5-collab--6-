@@ -164,12 +164,10 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 | 組員姓名 | 負責分支 | 主要修改內容 | PR 連結 | 是否完成 |
 | -------- | -------- | ------------ | ------- | -------- |
-|          |          |              |         | ✅ / ❌  |
-<<<<<<< HEAD
+| 林湘紜 | feature/member-d | 	新增深色模式  | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/4 | ✅ |
 | 朱覺祥 |    feature/member-a      |   sendMessage() 裡，每則訊息加上時間戳和style.css 加上 .timestamp 樣式           |         | ✅   |
 =======
-| 林伽紜    | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 https://github.com/hsuvivi1000-design/w5-collab--6-/pull/5 | ✅  |
->>>>>>> origin/pluscloudlin-patch-1
+| 林伽紜 | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 | ✅  |
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
@@ -236,16 +234,15 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 每位組員各寫 2–3 句，說明這週對 PR / Code Review 的理解或感想
 
-<<<<<<< HEAD
-**（朱覺祥）：**
+**朱覺祥：**
 有種在紹交媒體互動的感覺，像是在回覆留言
-**（組員姓名）：**
-=======
-**（組員姓名）：**
 
 **林伽紜：** 今天的操作練習PR與Code Review的應用，讓我完整的瞭解了如何在大專案中使用這項功能，讓程式碼整潔乾淨，不會亂成一團。
->>>>>>> origin/pluscloudlin-patch-1
 
+**許瀞云：**
+
+**（組員姓名）：**
+=======
 **（組員姓名）：**
 
 ---
