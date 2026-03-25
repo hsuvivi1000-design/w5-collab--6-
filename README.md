@@ -180,7 +180,8 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 截圖：GitHub repo → Pull requests，顯示所有 PR 的狀態（open / merged）
 
-（貼上截圖）
+<img width="3152" height="1494" alt="image" src="https://github.com/user-attachments/assets/c88d62b2-fe93-4a8b-8700-987ff7e8050d" />
+
 
 ---
 
@@ -188,7 +189,8 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 截圖：其中一個 PR 的描述頁面，顯示完整的「做了什麼 / 如何測試」內容
 
-（貼上截圖）
+<img width="2192" height="1510" alt="image" src="https://github.com/user-attachments/assets/35027540-033b-4df2-887d-c9a6241c9ba3" />
+
 
 ---
 
@@ -196,7 +198,10 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 截圖：Files changed 頁面，顯示 inline comment 的留言
 
-（貼上截圖）
+<img width="2192" height="1222" alt="image" src="https://github.com/user-attachments/assets/fcb15d3b-68aa-4489-a252-023beebf9713" />
+<img width="2174" height="1388" alt="image" src="https://github.com/user-attachments/assets/392c3047-1139-4831-acc9-09405244a8df" />
+
+
 
 ---
 
@@ -204,7 +209,8 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 截圖：某個 PR 頁面顯示「Merged」紫色標籤
 
-（貼上截圖）
+<img width="3136" height="1542" alt="image" src="https://github.com/user-attachments/assets/7a52e4c6-44bd-467b-b111-89708f37003e" />
+
 
 ---
 
@@ -212,7 +218,7 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 > 截圖：用瀏覽器打開 `index.html`，顯示所有功能整合完成的畫面
 
-（貼上截圖）
+<img width="3182" height="1780" alt="image" src="https://github.com/user-attachments/assets/150bc69d-13db-405f-867a-1d57aa3c5263" />
 
 ---
 
@@ -241,8 +247,8 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 **許瀞云：**
 
-**（組員姓名）：**
-=======
+**林湘紜：**
+
 **（組員姓名）：**
 
 ---
