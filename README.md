@@ -253,7 +253,7 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 
 - [ ] 寫 PR 描述
 - [ ] 給 Code Review
-- [ ] 回應 review 並修改
+- [x] 回應 review 並修改
 - [ ] 解決 Merge Conflict
 - [ ] 其他：＿＿＿
 
