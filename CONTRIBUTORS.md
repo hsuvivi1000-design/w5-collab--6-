@@ -38,12 +38,12 @@
 - [ ] Review 其他組員的 PR（至少 2 個）
 
 ### 組員 B（`feature/member-b` branch）
-- [ ] 在 `index.html` 的 `.input-area` 加入「清除」按鈕
-- [ ] 在 `<script>` 加入 `clearChat()` 函數，清空 `#chat-box`
-- [ ] 在 `style.css` 加上清除按鈕的樣式（與送出按鈕顏色不同）
-- [ ] 填寫完整 PR 描述
-- [ ] 收到 2 位成員 review 後回應 comment
-- [ ] Review 其他組員的 PR（至少 2 個）
+- [x] 在 `index.html` 的 `.input-area` 加入「清除」按鈕
+- [x] 在 `<script>` 加入 `clearChat()` 函數，清空 `#chat-box`
+- [x] 在 `style.css` 加上清除按鈕的樣式（與送出按鈕顏色不同）
+- [x] 填寫完整 PR 描述
+- [x] 收到 2 位成員 review 後回應 comment
+- [x] Review 其他組員的 PR（至少 2 個）
 
 ### 組員 C（`feature/member-c` branch）
 - [ ] 在 `index.html` header 下方加字數統計（「已輸入 X 字」）
