@@ -111,12 +111,12 @@ header .subtitle {
 
 /* ── 組員 D 任務：在這裡加 body.dark 深色模式樣式 ── */
 body.dark {
-  background-color: #f70707;
+  background-color: #000000;
   color: #e0e0e0;
 }
 
 body.dark .container {
-  background: #ff0404;
+  background: #000000;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
