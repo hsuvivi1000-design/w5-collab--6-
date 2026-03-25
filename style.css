@@ -1,6 +1,10 @@
 /* W5 PR 協作練習樣式 */
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 body {
   font-family: sans-serif;
@@ -14,7 +18,7 @@ body {
 .container {
   background: white;
   border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   width: 480px;
   max-width: 95vw;
   overflow: hidden;
@@ -29,8 +33,16 @@ header {
   padding: 20px 24px;
   position: relative;
 }
-header h1 { font-size: 20px; }
-header .subtitle { font-size: 13px; opacity: 0.85; margin-top: 4px; }
+
+header h1 {
+  font-size: 20px;
+}
+
+header .subtitle {
+  font-size: 13px;
+  opacity: 0.85;
+  margin-top: 4px;
+}
 
 #chat-box {
   height: 360px;
@@ -78,7 +90,9 @@ header .subtitle { font-size: 13px; opacity: 0.85; margin-top: 4px; }
   outline: none;
 }
 
-.input-area input:focus { border-color: #4f8ef7; }
+.input-area input:focus {
+  border-color: #4f8ef7;
+}
 
 /* ── 組員 B 任務：在這裡加清除按鈕樣式 ── */
 .input-area button {
@@ -91,33 +105,41 @@ header .subtitle { font-size: 13px; opacity: 0.85; margin-top: 4px; }
   font-size: 14px;
 }
 
-.input-area button:hover { opacity: 0.85; }
+.input-area button:hover {
+  opacity: 0.85;
+}
 
 /* ── 組員 D 任務：在這裡加 body.dark 深色模式樣式 ── */
 body.dark {
-  background-color: #121212;
+  background-color: #f70707;
   color: #e0e0e0;
 }
+
 body.dark .container {
-  background: #1e1e1e;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  background: #ff0404;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
+
 body.dark header {
   background: #1a1a1a;
   color: #e0e0e0;
 }
+
 body.dark .message.bot {
   background: #333;
   color: #e0e0e0;
 }
+
 body.dark .input-area {
   border-top: 1px solid #333;
 }
+
 body.dark .input-area input {
   background: #333;
   color: #e0e0e0;
   border-color: #444;
 }
+
 body.dark .input-area input:focus {
   border-color: #4f8ef7;
 }
@@ -132,6 +154,7 @@ body.dark .input-area input:focus {
   cursor: pointer;
   transition: transform 0.2s;
 }
+
 .dark-toggle:hover {
   transform: scale(1.1);
 }
