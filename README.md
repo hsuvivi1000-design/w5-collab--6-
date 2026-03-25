@@ -11,7 +11,7 @@
 | ----------- | -------------- |
 | 組別        | 第 6 組       |
 | 組員        | 許瀞云 林湘紜 林伽紜 朱覺祥 |
-| GitHub Repo |                |
+| GitHub Repo |  https://github.com/hsuvivi1000-design/w5-collab--6-  |
 | 報告日期    | 2026 / 3 / 25 |
 
 ---
@@ -165,7 +165,7 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 | 組員姓名 | 負責分支 | 主要修改內容 | PR 連結 | 是否完成 |
 | -------- | -------- | ------------ | ------- | -------- |
 | 林湘紜 | feature/member-d | 	新增深色模式  | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/4 | ✅ |
-| 朱覺祥 |    feature/member-a      |   sendMessage() 裡，每則訊息加上時間戳和style.css 加上 .timestamp 樣式           |         | ✅   |
+| 朱覺祥 |    feature/member-a      |   sendMessage() 裡，每則訊息加上時間戳和style.css 加上 .timestamp 樣式           | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/3 | ✅   |
 =======
 | 林伽紜 | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 | ✅  |
 |          |          |              |         | ✅ / ❌  |
@@ -243,9 +243,11 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 **朱覺祥：**
 有種在紹交媒體互動的感覺，像是在回覆留言
 
-**林伽紜：** 今天的操作練習PR與Code Review的應用，讓我完整的瞭解了如何在大專案中使用這項功能，讓程式碼整潔乾淨，不會亂成一團。
+**林伽紜：** 
+今天的操作練習PR與Code Review的應用，讓我完整的瞭解了如何在大專案中使用這項功能，讓程式碼整潔乾淨，不會亂成一團。
 
 **許瀞云：**
+我認為這次的實作雖然相對簡單，但是在專業用語上很容易忘記，一下子就會跟不上
 
 **林湘紜：**
 
@@ -275,7 +277,7 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 - [ ] 給 Code Review
 - [x] 回應 review 並修改
 - [ ] 解決 Merge Conflict
-- [ ] 其他：＿＿＿
+- [X] 其他:看懂git hub頁面內容
 
 ---
 
