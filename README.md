@@ -165,7 +165,7 @@ blocking: 這個會影響其他功能，需要修一下才能 merge。
 | 組員姓名 | 負責分支 | 主要修改內容 | PR 連結 | 是否完成 |
 | -------- | -------- | ------------ | ------- | -------- |
 |          |          |              |         | ✅ / ❌  |
-| 林伽紜    | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 | ✅ / ❌  |
+| 林伽紜    | feature/member-b | 新增刪除訊息功能 | https://github.com/hsuvivi1000-design/w5-collab--6-/pull/2 https://github.com/hsuvivi1000-design/w5-collab--6-/pull/5 | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
 |          |          |              |         | ✅ / ❌  |
