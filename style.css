@@ -66,7 +66,14 @@ header .subtitle {
   align-self: flex-start;
 }
 
-/* ── 組員 A 任務：在這裡加 .timestamp 樣式 ── */
+/* ── 組員 A 任務：時間戳樣式 ── */
+.timestamp {
+  display: block;
+  text-align: right;
+  font-size: 11px;
+  opacity: 0.55;
+  margin-top: 4px;
+}
 .message.user {
   background: #4f8ef7;
   color: white;
